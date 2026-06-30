@@ -8,10 +8,7 @@ public:
            {
             if(nums[right]==0)  zeroC++;
             while(zeroC>k)
-            {
-                if(nums[left]==0)   zeroC--;
-                left++;
-            }
+                if(nums[left++]==0)   zeroC--;
             maxlen=max(maxlen,right-left+1);
            }
            return maxlen;
