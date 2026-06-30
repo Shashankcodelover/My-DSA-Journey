@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,4 +28,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
