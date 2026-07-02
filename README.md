@@ -9,6 +9,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +53,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
