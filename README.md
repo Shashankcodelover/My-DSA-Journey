@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0704-binary-search) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
