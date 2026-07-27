@@ -5,7 +5,7 @@ public:
         while(r<n)
         {
             if(nums[r]!=val)
-                swap(nums[w++],nums[r]);
+                nums[w++]=nums[r];
             r++;
         }
         return w;
