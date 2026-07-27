@@ -6,8 +6,8 @@ public:
         for(reader=0;reader<n;reader++)
         {
             if(nums[reader]!=0)
-                nums[writer++]=nums[reader];
+                swap(nums[writer++],nums[reader]);
         }
-        while(writer<n) nums[writer++]=0;
+        
     }
 };
