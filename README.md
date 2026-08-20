@@ -27,6 +27,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0014-longest-common-prefix/) | Easy |
+| [0242-valid-anagram](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Trie
@@ -46,6 +47,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0169-majority-element](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -91,6 +93,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
