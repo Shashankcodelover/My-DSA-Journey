@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -104,6 +106,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Quicksort
 |  |
@@ -113,4 +116,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
