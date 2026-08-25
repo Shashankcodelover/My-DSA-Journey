@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0704-binary-search) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -131,4 +133,20 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
