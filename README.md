@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0904-fruit-into-baskets) |
@@ -48,6 +49,7 @@
 | [0042-trapping-rain-water](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -152,4 +155,16 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
