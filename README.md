@@ -104,6 +104,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0002-add-two-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Divide and Conquer
 |  |
@@ -179,6 +180,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0141-linked-list-cycle) |
@@ -186,6 +188,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
