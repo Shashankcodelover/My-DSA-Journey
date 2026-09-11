@@ -142,6 +142,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -150,6 +151,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -198,4 +200,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
