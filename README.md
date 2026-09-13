@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -144,6 +145,7 @@
 | [0042-trapping-rain-water](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -204,4 +206,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
