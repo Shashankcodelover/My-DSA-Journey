@@ -23,6 +23,7 @@
 | [0239-sliding-window-maximum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0704-binary-search) |
@@ -65,6 +66,7 @@
 | [0217-contains-duplicate](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -145,11 +147,13 @@
 | [0042-trapping-rain-water](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
