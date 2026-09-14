@@ -1,30 +1,25 @@
 class Solution {
 public:
+    void nextGstack(vector<int>& nums , unordered_map<int , int>& mp){
+        stack<int> s;
+        for(int i=nums.size()-1;i>=0;i--){
+            while(!s.empty() && s.top()<=nums[i]){
+                s.pop();
+            }
+            if(!s.empty()){
+                mp[nums[i]]=s.top();
+            }
+            s.push(nums[i]);
+        }
+    }
+
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        int m=nums1.size(),n=nums2.size(),isG=0;
-        vector<int> res;
-        unordered_map<int,int> w;
-        stack<int> g;
-        g.push(nums2[0]);
-        for(int i=1;i<n;i++){
-            if(nums2[i]<g.top()){
-                g.push(nums2[i]);
-            }
-            else{
-                while(!g.empty() && nums2[i] > g.top()){
-                    int x=g.top();
-                    w[x]=nums2[i];
-                    g.pop();
-                }
-                g.push(nums2[i]);
-            }
-
+        unordered_map<int,int> mp;
+        nextGstack(nums2,mp);
+        vector<int> res(nums1.size(),-1);
+        for(int i=0;i<nums1.size();i++){
+            if(mp.find(nums1[i])!=mp.end())  res[i]=mp[nums1[i]];
         }
-        for(int i=0;i<m;i++){
-            res.push_back(  (  w.find(nums1[i]) != w.end()  ) ? w[nums1[i]] : -1 );
-        }
-
         return res;
-
     }
 };
