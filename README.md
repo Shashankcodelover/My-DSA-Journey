@@ -37,6 +37,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -144,6 +145,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0234-palindrome-linked-list) |
@@ -214,4 +216,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0682-baseball-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
