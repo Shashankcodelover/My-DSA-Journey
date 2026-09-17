@@ -40,6 +40,7 @@
 | [0014-longest-common-prefix](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Trie
@@ -153,6 +154,7 @@
 | [0155-min-stack](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0682-baseball-game) |
 ## Monotonic Stack
@@ -204,6 +206,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0394-decode-string) |
 ## Merge Sort
 |  |
 | ------- |
