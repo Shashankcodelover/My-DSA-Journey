@@ -16,6 +16,7 @@
 | [0075-sort-colors](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Divide and Conquer
 |  |
@@ -147,6 +149,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0234-palindrome-linked-list) |
