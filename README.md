@@ -29,6 +29,7 @@
 | [0682-baseball-game](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0853-car-fleet) |
 | [0904-fruit-into-baskets](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -128,6 +129,7 @@
 | [0169-majority-element](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0242-valid-anagram) |
+| [0853-car-fleet](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0853-car-fleet) |
 ## Counting
 |  |
 | ------- |
@@ -159,12 +161,14 @@
 | [0496-next-greater-element-i](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0853-car-fleet) |
 ## Queue
 |  |
 | ------- |
