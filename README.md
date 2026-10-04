@@ -17,6 +17,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0169-majority-element) |
@@ -67,6 +68,7 @@
 | [0001-two-sum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0217-contains-duplicate) |
@@ -274,4 +276,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0543-diameter-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
