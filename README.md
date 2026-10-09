@@ -35,6 +35,7 @@
 | [0904-fruit-into-baskets](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1094-car-pooling](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## String
@@ -110,6 +111,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1094-car-pooling](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Math
@@ -133,6 +135,7 @@
 | [0217-contains-duplicate](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0853-car-fleet) |
+| [1094-car-pooling](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/1094-car-pooling) |
 ## Counting
 |  |
 | ------- |
@@ -184,6 +187,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
+| [1094-car-pooling](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/1094-car-pooling) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -237,6 +241,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0682-baseball-game) |
+| [1094-car-pooling](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/1094-car-pooling) |
 ## Bracket Sequences
 |  |
 | ------- |
