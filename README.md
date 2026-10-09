@@ -26,6 +26,7 @@
 | [0239-sliding-window-maximum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+| [0435-non-overlapping-intervals](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0682-baseball-game) |
@@ -134,6 +135,7 @@
 | [0169-majority-element](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0853-car-fleet](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0853-car-fleet) |
 | [1094-car-pooling](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/1094-car-pooling) |
 ## Counting
@@ -146,6 +148,7 @@
 | [0042-trapping-rain-water](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0435-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
@@ -285,4 +288,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
