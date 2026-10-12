@@ -39,6 +39,7 @@
 | [1094-car-pooling](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/2402-meeting-rooms-iii) |
 ## String
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/2402-meeting-rooms-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0853-car-fleet](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0853-car-fleet) |
 | [1094-car-pooling](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/1094-car-pooling) |
+| [2402-meeting-rooms-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/2402-meeting-rooms-iii) |
 ## Counting
 |  |
 | ------- |
@@ -191,6 +194,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [1094-car-pooling](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/1094-car-pooling) |
+| [2402-meeting-rooms-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/2402-meeting-rooms-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -245,6 +249,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0682-baseball-game) |
 | [1094-car-pooling](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/1094-car-pooling) |
+| [2402-meeting-rooms-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/2402-meeting-rooms-iii) |
 ## Bracket Sequences
 |  |
 | ------- |
