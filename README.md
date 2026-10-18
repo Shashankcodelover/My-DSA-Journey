@@ -33,6 +33,7 @@
 | [0704-binary-search](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -107,6 +108,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 |  |
