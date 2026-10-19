@@ -37,6 +37,7 @@
 | [0904-fruit-into-baskets](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -110,6 +111,7 @@
 | [0704-binary-search](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashankcodelover/My-DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shashankcodelover/My-DSA-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Prefix Sum
 |  |
 | ------- |
